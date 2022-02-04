@@ -1,0 +1,23 @@
+Problem: Symmetrical Matrics (Level 1)
+
+Proposition:
+  Suppose you are given a 2D matrix size of x*y (1<x,y<100).
+  You want to find out if the matrix has symmetric properties.
+
+Input: 
+  First line: x y
+  Second line All entries of the matrix seprated by single space.
+  
+Output:
+  Symmetric (For Symmetric metrix)
+  Not Symmetric (For non-symmetric matrix)
+ 
+Example of a symmetric matrix:
+
+ . . . . . x . . . . .
+ . . . . x . x . . . .
+ . . . x . . . x . . .
+ . . x . . . . . x . .
+ . . . x . . . x . . .
+ . . . . x . x . . . .
+ . . . . . x . . . . .
